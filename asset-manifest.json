@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/primera-entrega-react-js-gomez-mariano/static/css/main.ee0f3002.css",
-    "main.js": "/primera-entrega-react-js-gomez-mariano/static/js/main.fd40ef28.js",
+    "main.js": "/primera-entrega-react-js-gomez-mariano/static/js/main.e2c5afaf.js",
     "static/js/787.601e8d98.chunk.js": "/primera-entrega-react-js-gomez-mariano/static/js/787.601e8d98.chunk.js",
     "static/media/logo.png": "/primera-entrega-react-js-gomez-mariano/static/media/logo.dc8214db47baf11a16ef.png",
     "index.html": "/primera-entrega-react-js-gomez-mariano/index.html",
     "main.ee0f3002.css.map": "/primera-entrega-react-js-gomez-mariano/static/css/main.ee0f3002.css.map",
-    "main.fd40ef28.js.map": "/primera-entrega-react-js-gomez-mariano/static/js/main.fd40ef28.js.map",
+    "main.e2c5afaf.js.map": "/primera-entrega-react-js-gomez-mariano/static/js/main.e2c5afaf.js.map",
     "787.601e8d98.chunk.js.map": "/primera-entrega-react-js-gomez-mariano/static/js/787.601e8d98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee0f3002.css",
-    "static/js/main.fd40ef28.js"
+    "static/js/main.e2c5afaf.js"
   ]
 }
